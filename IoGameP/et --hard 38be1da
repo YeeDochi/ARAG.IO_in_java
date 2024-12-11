@@ -1,0 +1,10 @@
+[33mf7fbc59[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull origin main --rebase (start): checkout f7fbc59ec35eb95e143315ec10efd73581b1a461
+[33m38be1da[m[33m ([m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from master to main
+[33m38be1da[m[33m ([m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: commit: finished P
+[33m8e19602[m HEAD@{3}: rebase (finish): returning to refs/heads/master
+[33m8e19602[m HEAD@{4}: rebase (pick): 최적화 완료
+[33m7fc6098[m HEAD@{5}: rebase (pick): 1인 클라이언트 테스트
+[33m25e9d06[m[33m ([m[1;31mJavaIOGame/main[m[33m)[m HEAD@{6}: rebase (start): checkout refs/remotes/JavaIOGame/main
+[33mce81364[m[33m ([m[1;31mJavaIOGame/master[m[33m)[m HEAD@{7}: commit: 최적화 완료
+[33m124e498[m HEAD@{8}: commit (amend): 1인 클라이언트 테스트
+[33mf6f52a9[m HEAD@{9}: commit (initial): 1인 클라이언트 테스트
